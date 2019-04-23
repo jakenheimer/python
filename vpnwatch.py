@@ -3,7 +3,6 @@
 import requests
 import socket
 import os
-import time
 
 
 r = requests.get('http://icanhazip.com')
